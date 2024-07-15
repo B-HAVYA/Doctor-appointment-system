@@ -1,0 +1,39 @@
+/* styles for the center container */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% of the viewport height */
+}
+
+/* styles for the form container */
+.form-container {
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5), 0 0 10px rgba(0, 0, 255, 0.2);
+  padding: 20px;
+  background-color: #87c4ff;
+}
+
+/* styles for the form */
+.register-form {
+  margin-top: 20px;
+}
+
+/* styles for the link */
+.m-2 {
+  display: block;
+  margin-top: 10px;
+}
+
+/* styles for the button */
+.btn-primary {
+  width: 100%;
+  background-color: #122b46;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+/* additional styles as needed */
+
