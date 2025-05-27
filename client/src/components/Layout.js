@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
           <div className="sidebar">
             <div className="logo">
             
-           <span><center><img color="white" src="https://flaticons.net/icon.php?slug_category=people&slug_icon=doctor" width="200" align=""/></center>
+           <span><center><img color="white" src="/logo.png" width="200" align=""/></center>
              <h6 className="text-light">DOC APPOINTMENT SYSTEM</h6> </span>
               <hr />
             </div>
